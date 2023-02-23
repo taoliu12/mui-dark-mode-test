@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.11.10/docs/data/material/customization/dark-mode/ToggleColorMode.js",
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
